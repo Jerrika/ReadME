@@ -29,7 +29,7 @@ N/A
 N/A
 ```
 ## Demo
-Check out my demonstration of this app on Screen castify link [HERE](https://youtu.be/9YivEQFpmHQ)
+Check out my demonstration of this app on Screen castify link [HERE](https://app.screencastify.com/v2/manage/videos/RaxM8k2L7Ms9afCzzK8u)
 ## License
 
         Licensed under the MIT license.
